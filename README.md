@@ -6,7 +6,7 @@ This project is about designing a website specifically for students who want to 
 ### Tech stack
 HTML <br>
 CSS <br>
-JavaScript 
+JAVASCRIPT 
 
 ## Usage
 
