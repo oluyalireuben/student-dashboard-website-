@@ -15,7 +15,7 @@ To use this students dashboard, follow these steps:
 1. Download or clone this repository to your local machine
 
 
-3. Open the `index.html` file in a web browser to view the dashboard . You can do this by double-clicking the `index.html` file or by using a local development server.
+3. Open the `.html` files in a web browser to view the dashboard . You can do this by double-clicking the `.html` files or by using a local development server.
 
 
 
